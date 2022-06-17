@@ -21,6 +21,6 @@ $ pip2 install requests bs4
 
 $ git clone https://github.com/TAHIDUL-123/JUST-NAW2
 
-$ cd JUST-NAW2
+cd JUST-NAW2
 
-$ python KHAN2.py
+python KHAN2.py
